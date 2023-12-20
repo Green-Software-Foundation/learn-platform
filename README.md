@@ -1,6 +1,6 @@
 # learn.greensoftware.foundation
 
-This is an internal project of the [Green Software Foundation ](https://greensoftware.foundation/) covering the development of a new learning platform to replace the existing learn.greensoftware.foundation website
+This is an internal project of the [Green Software Foundation ](https://greensoftware.foundation/) covering the development of a new learning platform to evolve the existing [learn.greensoftware.foundation](https://learn.greensoftware.foundation/) website.
 
 # Contributing
 
